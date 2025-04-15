@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Amrendra87/Amrendra87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Amrendra-Yadav/Amrendra-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # 👋 Hi, I'm Amrendra Yadav
 
-**Aspiring Programmer | Web Developer | Tech Enthusiast**
+**Aspiring Programmer | Java Developer | Tech Enthusiast**
 
 ---
 
