@@ -9,7 +9,7 @@
 ---
 
 ### 🌐 Socials:
-- [Email]:(amrendralearn879563@gmail.com)
+- Email: amrendralearn879563@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/amrendra-yadav-680351298) | [Portfolio](https://yourportfolio.com) | [Twitter](https://twitter.com)
 
 ---
