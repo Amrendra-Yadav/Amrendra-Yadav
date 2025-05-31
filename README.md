@@ -1,11 +1,10 @@
-👋 Hello I'm Amrendra Yadav 
+## 👋 Hello I'm Amrendra Yadav 
+
+👋 Hello! I'm Amrendra Yadav, a Second year B.Tech student with a passion for web development and a strong foundation in Data Structures & Algorithms (DSA). I have hands-on experience with languages and technologies like HTML, CSS, JavaScript, Java ,Git and Spring boot, along with a solid understanding of coding principles in C, C++, and Python
 
 
-**Amrendra-Yadav/Amrendra-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 👋 Hi, I'm Amrendra Yadav
-
-**Aspiring Programmer | Java Developer | Tech Enthusiast**
+**Aspiring Programmer | Java Developer | Tech Enthusiast | Backend Developer**
 
 ---
 
